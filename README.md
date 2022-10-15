@@ -1,5 +1,50 @@
 <h1 align="center">Hi 👋, I'm Tech-Programing</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
+<img src="https://github.com/Tech-Programing/Tech-Programing/blob/main/TECH%20CODE.png" width="120" height="120" align="left">
+<center>
+  
+  
+  
+   ## * MY SOCIAL MEDIA : <br>
+<a href="https://Instagram.com/Tech-Programing" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
+<a href="https://t.me/alikhanjan99"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/telegram.png" alt="alt text" width="25" height="25"></a>
+<a href="https://www.facebook.com/profile.php?id=100086542160451" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://www.youtube.com/channel/UCaHT2lcr6wpGfPMPW0wuh-g"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
+&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
+  
+____Programming And Memes____
+
+Want to contact <a href="https://github.com/Alikhanjan99"><b>Tech-Programing </a> ?</br><br>
+<img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
+CONTACT : <i>Dark5644615@gmail.com</i>  <br> <br> 
+
+<div align="center">
+<h2>&quot;--ANONYMOUS--&quot;</h2>
+</div> <br>
+  
+  
+  
+- [x] python
+  ```python
+  #!usr/bin/python
+  #-*-coding: utf-8-*-
+  
+  print ("Hello World...!")
+  ```
+- [x] php
+  ```php
+
+  <!DOCTYPE html>
+  <html>
+  <body>
+
+  <?php
+  echo "Hello World...!";
+  ?>
+
+  </body>
+  </html>
+
+  ```
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -13,7 +58,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [Youtube](Youtube)
+- 👨‍💻 All of my projects are available at [Facebook]([Facebook](https://www.facebook.com/profile.php?id=100086542160451))
 
 - ⚡ Fun fact **Learning.**
 
