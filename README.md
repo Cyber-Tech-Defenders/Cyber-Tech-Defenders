@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tech-Programing</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
-<img src="https://github.com/Tech-Programing/Tech-Programing/blob/main/TECH%20CODE.png" width="120" height="120" align="left">
+<img src="https://github.com/Tech-Programing/Tech-Programing/blob/main/Youtube Logo.png" width="120" height="120" align="left">
 <center>
   
   
